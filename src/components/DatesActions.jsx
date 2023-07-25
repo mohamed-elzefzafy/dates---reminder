@@ -7,6 +7,7 @@ const DatesActions = ({onDelete , onviewData }) => {
     <Col sm="8" className="d-flex justify-content-between">
     <button className="btn-style p-2" onClick={ onDelete}>مسح الكل</button>
     <button className="btn-style p-2"  onClick={ onviewData}>عرض البيانات</button>
+    <h1>hiiiiii</h1>
     </Col>
   
     </Row>
